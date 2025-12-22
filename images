@@ -1,1 +1,2 @@
-
+plt.savefig("images/sample_plot.png")
+plt.show()
